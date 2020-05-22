@@ -12,4 +12,4 @@ Additionally, we have scrapped and labelled google images for 220 species using 
 A testing accuracy of 66% was achieved and an f-measure of 0.65 vs 1.5% accuracy for a baseline rbf svm
 We have successfully trained on 107 species, with the ability to dynamically add new classes without the need to retrain; this is achieved because we are not actually classifying images into classes but rather finding an index of similarity between two given images. In theory, any number of species can be added if at least one labelled image per class is introduced
 
-![sample1](/picture1.png)
+![sample1](/Picture1.png)
