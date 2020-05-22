@@ -1,0 +1,23 @@
+0-Abudefduf saxatilis hit 
+
+1-gracila albomarginata hit 
+
+2-epinephelus retouti miss predicted: cephalopholis leopardus [similar color/shape]
+
+3-plectropomus laevis miss  predicted: plectropomus oligacanthus [close subspecies]
+
+4-epinephelus latifasciatus miss predicted: epinephelus spilotoceps [close subspecies]
+
+5-pseudanthias ventralis hit
+
+6-epinephelus macrospilos miss predicted:epinephelus quoyanus [close subspecies] (almost same species)
+
+7-johnius borneensis hit
+
+8-plectranthias longimanus hit
+
+9-nemipterus hexodon hit
+
+6/10 hits 
+
+4/10 misses 
