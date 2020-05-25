@@ -1,6 +1,6 @@
 # Fish-Identification-using-Siamese CNN
 
-Demo video available
+Demo video available (skip till minute 4 to check fish identification)
 
 ## Introduction
 In this project, we tackle the issue of fish species recognition. It is a very tedious and time consuming task if done manually.
